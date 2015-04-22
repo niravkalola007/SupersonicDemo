@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SupersonicDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_rewarded_video">Show Rewarded Video</string>
+    <string name="init_rewarded_video">Init Rewarded Video</string>
+    <string name="show_offer_wall">Show Offer Wall</string>
+    <string name="show_interstitial">Show Interstitial</string>
+    <string name="loading_interstitial">Loading Ad</string>
+    <string name="init_interstitial">Init Interstitial</string>
+</resources>
